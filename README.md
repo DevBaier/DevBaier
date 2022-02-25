@@ -8,8 +8,8 @@ const aboutMe = {
    code: [ "Javascript", "HTML", "CSS", "PHP"],
    technologies: {
       frontEnd: {
-         js: [ "Angular", "Vue" ],
-         css: [ "Materialize", "Bootstrap", "Material Design", "Semantic UI" ]
+         js: [ "Next.js", "Angular", "Vue" ],
+         css: [ "Materialize", "Bootstrap", "Material Design", "Semantic UI", "Chakra UI" ]
       },
       backEnd: {
          js: [ "Node", "Express" ],
